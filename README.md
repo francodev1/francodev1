@@ -7,7 +7,7 @@
 
 ## 📊 My GitHub Stats
 
-![Lucas Franco Baptista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Lucas Franco Baptista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francodev1&show_icons=true&theme=dark)
 
 ## 🔧 Technologies & Tools
 
